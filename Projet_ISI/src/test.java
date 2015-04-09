@@ -9,8 +9,7 @@ public class test
 	 
 		 String expression = "/doc/name[@first='David']";
 		 
-		 XFactory factory = XFactory.newInstance();
-
+		//teste juste pour le test
 	  }
 	 
 }
